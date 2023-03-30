@@ -1,0 +1,2 @@
+def volume_balok(panjang, lebar, tinggi): # definisi fungsi volume balok dengan parameter panjang, lebar, dan tinggi
+    return panjang * lebar * tinggi # pernyataan rumus dan return untuk mengasilkan output
